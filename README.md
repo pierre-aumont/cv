@@ -2,7 +2,7 @@
 
 **Données, indicateurs et pilotage pour la recherche, l'innovation et le territoire**
 
-Docteur en physique, je produis depuis 2019 à Avignon Université des données d'aide à la décision pour la recherche et l'innovation : étude d'impact territorial, tableaux de bord pour la gouvernance, indicateurs du PUI Provence, puis outils de données et d'IA que je conçois et mets en service. Plus de quinze ans dans le financement de la R&D et le développement économique, côté entreprises puis côté université : je connais de l'intérieur l'écosystème que ces données décrivent. Formateur national IA pour l'Amue depuis avril 2025.
+Docteur en physique, je produis depuis 2019 à Avignon Université des données d'aide à la décision pour la recherche et l'innovation : étude d'impact territorial, tableaux de bord pour la gouvernance, indicateurs du PUI Provence, puis outils de données et d'IA que je conçois et mets en service. Dix-huit ans dans le financement de l'innovation, les partenariats de recherche et l'aide à la création d'entreprises, côté entreprises puis côté université : je connais de l'intérieur l'écosystème que ces données décrivent. Formateur national IA pour l'Amue depuis 2025.
 
 ## Liens et contact
 
@@ -14,20 +14,19 @@ Docteur en physique, je produis depuis 2019 à Avignon Université des données 
 
 ## En bref
 
-- **Données de pilotage depuis 2019** : étude de l'impact économique d'Avignon Université sur son territoire (2019), tableaux de bord pour la DARI et la gouvernance, remontée semestrielle des indicateurs du PUI Provence (depuis 2024).
-- **Outils de données et d'IA depuis 2025** : une vingtaine d'outils mis en service sur un serveur de l'université, dont une cartographie publique des compétences de 13 laboratoires (8 600 publications).
+- **Données de pilotage depuis 2019** : étude de l'impact économique d'Avignon Université sur son territoire (2019), tableaux de bord recherche et valorisation pour la gouvernance de l'université, remontée semestrielle des indicateurs du PUI Provence (depuis 2024).
+- **Outils de données et d'IA depuis 2025** : une vingtaine d'outils mis en service sur un serveur de l'université, dont une cartographie publique des compétences scientifiques de 13 laboratoires (8 600 publications).
 - **Continuité du travail sur les données** : données de capteurs et d'expériences en thèse (MATLAB), données comptables et enquêtes R&D du ministère chez Alma Consulting Group, puis données de la recherche et de l'innovation à l'université.
-- **Écosystème recherche, innovation et développement économique** : dix ans de CIR, CII et JEI en cabinet, puis partenariats de recherche, CIFRE, création d'entreprises et comités de valorisation à l'université.
-- **Acculturation à l'IA et à la donnée** : 140 personnels de l'enseignement supérieur et de la recherche formés pour l'Amue, 90 agents de 7 services formés à Avignon Université.
+- **Écosystème recherche, innovation et développement économique** : onze ans de CIR, CII et JEI en cabinet, puis partenariats de recherche, CIFRE, création d'entreprises et comités de valorisation à l'université.
+- **Acculturation à l'IA et à la donnée** : 140 personnels de l'enseignement supérieur et de la recherche formés pour l'Amue ; référent et formateur IA à Avignon Université (90 agents de 7 services formés).
 - **Encadrement** : maître d'apprentissage et coordinateur technique d'un alternant en science et gouvernance des données depuis 2024.
 
 ## Réalisations données et IA
 
 Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès du vice-président au numérique : une vingtaine d'outils conçus et mis en service sur un serveur de l'université, en lien avec la DSI. Ces outils sont développés avec des agents de code IA que je spécifie, relis, teste et déploie. Les dépôts sont pour l'instant privés ; leur publication en source ouverte est prévue en 2027.
 
-- **Cartographie des compétences des laboratoires** : moteur de recherche public qui oriente une entreprise vers les laboratoires pertinents à partir d'un besoin exprimé en langage naturel. 13 laboratoires, 8 600 publications issues de sources ouvertes (HAL, OpenAlex, ORCID), profils validés par les chercheurs. J'en suis l'architecte et j'en développe une partie. Extension en 2026 aux 16 unités INRAE du PUI Provence, avec mon alternant.
-- **Référentiel des partenaires** : base des 1 300 partenaires de l'université et de leurs contrats par laboratoire, enrichie de données publiques (SIRENE, sites officiels) toujours distinguées des données internes.
-- **Observatoire de la valorisation** (depuis 2026) : tableau de bord de l'usage, anonymisé, des outils publics (indicateurs, évolution dans le temps, parcours des utilisateurs).
+- **Cartographie des compétences scientifiques des laboratoires** : moteur de recherche public qui oriente une entreprise vers les laboratoires pertinents à partir d'un besoin exprimé en langage naturel. 13 laboratoires, 8 600 publications issues de sources ouvertes (HAL, OpenAlex, ORCID), profils validés par les chercheurs. J'en suis l'architecte et j'en développe une partie. Extension en 2026 aux 16 unités INRAE du PUI Provence, avec mon alternant.
+- **Outils de mise en relation laboratoires et entreprises** : outils d'aide pour les chargés d'affaires de l'université, construits à partir des données de la cartographie, du logiciel de gestion des contrats et du CRM ; référentiel des 1 300 partenaires et de leurs contrats par laboratoire, enrichi de données publiques (SIRENE, sites officiels).
 - **Outils internes** : assistants répondant à partir des pages officielles de l'université, traduction de documents, comptes rendus de réunions, toujours avec validation humaine.
 - **Expérimentation Mistral ESR** : portage pour l'université de l'expérimentation nationale conduite par l'Amue pour le ministère, qui met l'IA générative de Mistral AI (Le Chat et API) à disposition des personnels de l'enseignement supérieur et de la recherche.
 
@@ -44,7 +43,7 @@ Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès d
 
 ### Tableaux de bord (depuis 2019)
 
-- Tableaux de bord pour la Direction d'appui à la recherche et à l'innovation (DARI) et pour la gouvernance de l'université.
+- Tableaux de bord recherche et valorisation pour la gouvernance de l'université.
 
 ### Indicateurs du PUI Provence (depuis 2024)
 
@@ -61,15 +60,15 @@ Le PUI Provence (Pôle universitaire d'innovation, France 2030) réunit 13 étab
 
 Avignon Université, Direction d'appui à la recherche et à l'innovation (DARI), Avignon
 
-- **Données de pilotage** : étude d'impact territorial (2019), tableaux de bord pour la DARI et la gouvernance, indicateurs du PUI Provence (voir ci-dessus).
+- **Données de pilotage** : étude d'impact territorial (2019), tableaux de bord recherche et valorisation pour la gouvernance de l'université, indicateurs du PUI Provence (voir ci-dessus).
 - **Partenariats** : interface entre 13 laboratoires, entreprises, financeurs et acteurs territoriaux ; qualification des besoins, mise en relation, accords de confidentialité ; chaires partenariales coconstruites avec la gouvernance.
 - **Montage de dossiers** : budgets prévisionnels et plans de financement d'une vingtaine de CIFRE et d'environ huit Emploi jeune doctorant (Région Sud), en relation directe avec l'ANRT et la Région.
 - **Développement économique et création d'entreprises** : voir la section dédiée ci-dessous.
 - **PUI Provence** (depuis 2024) : chargé de mission opérationnel pour Avignon Université.
-- **Programme Avignon Intelligence** (depuis 2025) : coordination, auprès du vice-président au numérique ; formation de 90 agents de 7 services à l'IA générative, en deux séances adaptées aux métiers de chaque service ; outils de données et d'IA ; portage de l'expérimentation Mistral ESR.
+- **Programme Avignon Intelligence** (depuis 2025) : coordination, auprès du vice-président au numérique ; référent et formateur IA, formation de 90 agents de 7 services à l'IA générative, en deux séances adaptées aux métiers de chaque service ; outils de données et d'IA ; portage de l'expérimentation Mistral ESR.
 - **Encadrement** (depuis 2024) : maître d'apprentissage et coordinateur technique d'un alternant (BUT Science des données, puis master Gouvernance des données), qui contribue à la cartographie des compétences dont j'assure l'architecture et une partie du développement.
 
-### Depuis avril 2025 : Formateur national IA
+### Depuis 2025 : Formateur national IA
 
 Amue (Agence de mutualisation des universités et établissements), en complément de mon poste à Avignon Université
 
@@ -118,7 +117,7 @@ Météo-France, direction régionale, Cayenne (Guyane)
 | Période | Employeur | Fonction |
 | --- | --- | --- |
 | Depuis 2025 | Amue | Formateur national IA |
-| Depuis 2019 | Avignon Université, DARI | Ingénieur partenariats recherche, innovation et développement économique |
+| Depuis 2019 | Avignon Université, Direction d'appui à la recherche et à l'innovation (DARI) | Ingénieur partenariats recherche, innovation et développement économique |
 | 2018 | Codex Innovation | Consultant indépendant |
 | 2016 à 2018 | ATTOM | Cofondateur, directeur général |
 | 2015 à 2018 | Fabrique d'Objets Libres | Président d'un FabLab et Living Lab |
@@ -131,7 +130,7 @@ Météo-France, direction régionale, Cayenne (Guyane)
 
 À Avignon Université, depuis 2019 :
 
-- **Business Units** : dispositif que nous avons monté avec la gouvernance et l'équipe, qui permet à un chercheur de tester une activité économique sous le SIRET de l'université avant de créer une entreprise. Accompagnement de la première Business Unit, IG Balance (modèle économique, outil de devis).
+- **Business Units** : dispositif interne de type couveuse, que nous avons monté avec la gouvernance et l'équipe. Il permet à un chercheur ou à un ingénieur qui prépare une création d'entreprise de tester immédiatement son marché, en vendant ses premières prestations ou ses premiers produits sous le SIRET de l'université. Accompagnement de la première Business Unit, IG Balance (modèle économique, outil de devis).
 - **Création d'entreprises par des chercheurs** : accompagnement des chercheurs qui créent une entreprise valorisant leurs travaux (dispositifs de la loi Allègre).
 - **Jeune docteur innovant** : accompagnement de 4 dossiers (Région Sud) pour des docteurs qui créent leur structure.
 - **Référent LabCom** de l'université, pour les laboratoires communs ANR entre un laboratoire et une entreprise.
@@ -139,14 +138,14 @@ Météo-France, direction régionale, Cayenne (Guyane)
   - membre du comité de valorisation du PUI Provence ;
   - membre du comité de valorisation d'Avignon Université ;
   - membre du comité de sélection du PUI Provence pour la Bourse French Tech Lab de Bpifrance (projets de start-up issus des laboratoires) ;
-  - auparavant, plusieurs années membre du comité de labellisation du pôle de compétitivité Innov'Alliance.
+  - auparavant, membre pendant 4 ans du comité de labellisation du pôle de compétitivité Innov'Alliance.
 
-Auparavant : dix ans de CIR, CII et JEI auprès d'entreprises de tous secteurs chez Alma Consulting Group (2005 à 2015), cofondation d'ATTOM (2016 à 2018), transfert de technologie vers Sagem DS pendant la thèse.
+Auparavant : onze ans de CIR, CII et JEI auprès d'entreprises de tous secteurs chez Alma Consulting Group (2005 à 2015), cofondation d'ATTOM (2016 à 2018), transfert de technologie vers Sagem DS pendant la thèse.
 
 ## Formation et encadrement
 
-- **Amue** (depuis avril 2025) : formateur national IA, 140 personnels formés, coconception du niveau intermédiaire.
-- **Avignon Université** (depuis 2025) : 90 agents de 7 services formés à l'IA générative.
+- **Amue** (depuis 2025) : formateur national IA, 140 personnels formés, coconception du niveau intermédiaire.
+- **Avignon Université** (depuis 2025) : référent et formateur IA, 90 agents de 7 services formés à l'IA générative.
 - **Master Gouvernance des données, Avignon Université** : 9 h par an sur les enjeux opérationnels de l'IA et de la donnée.
 - **Cours sur l'entreprise et l'économie de l'innovation** pour étudiants scientifiques et ingénieurs.
 - **Alternance** (depuis 2024) : maître d'apprentissage et coordinateur technique d'un alternant (BUT Science des données, puis master Gouvernance des données).
