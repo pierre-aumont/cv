@@ -25,7 +25,7 @@ Docteur en physique, je produis depuis 2019 à Avignon Université des données 
 
 Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès du vice-président au numérique : une vingtaine d'outils conçus et mis en service sur un serveur de l'université, en lien avec la DSI. Ces outils sont développés avec des agents de code IA que je spécifie, relis, teste et déploie. Les dépôts sont pour l'instant privés ; leur publication en source ouverte est prévue en 2027.
 
-- **Cartographie des compétences scientifiques des laboratoires** : moteur de recherche public qui oriente une entreprise vers les laboratoires pertinents à partir d'un besoin exprimé en langage naturel. 13 laboratoires, 8 600 publications issues de sources ouvertes (HAL, OpenAlex, ORCID), profils validés par les chercheurs. J'en suis l'architecte et j'en développe une partie. Extension en 2026 aux 16 unités INRAE du PUI Provence, avec mon alternant.
+- **Cartographie des compétences scientifiques des laboratoires** : moteur de recherche public qui oriente une entreprise vers les laboratoires pertinents à partir d'un besoin exprimé en langage naturel. 13 laboratoires, 8 600 publications issues des sources de la science ouverte (HAL, OpenAlex, ORCID), profils validés par les chercheurs. J'en suis l'architecte et j'en développe une partie. Extension en 2026 aux 16 unités INRAE du PUI Provence, avec mon alternant.
 - **Outils de mise en relation laboratoires et entreprises** : outils d'aide pour les chargés d'affaires de l'université et ses grands partenaires (collectivités, pôles de compétitivité, French Tech), construits à partir des données de la cartographie, du logiciel de gestion des contrats et du CRM ; référentiel des 1 300 partenaires et de leurs contrats par laboratoire, enrichi de données publiques (SIRENE, sites officiels).
 - **Outils internes** : assistants répondant à partir des pages officielles de l'université, traduction de documents, comptes rendus de réunions, toujours avec validation humaine.
 - **Expérimentation Mistral ESR** : portage pour l'université de l'expérimentation nationale conduite par l'Amue pour le ministère, qui met l'IA générative de Mistral AI (Le Chat et API) à disposition des personnels de l'enseignement supérieur et de la recherche.
@@ -38,7 +38,7 @@ Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès d
 
 - Interlocuteur opérationnel des experts de la FNEGE, sous la supervision du vice-président au développement économique.
 - Encadrement du stagiaire chargé de la collecte et organisation des entretiens.
-- Collecte et vérification de toutes les données : fournisseurs géolocalisés par SIRET, masse salariale, dépenses des étudiants, réparties sur quatre zones d'impact.
+- Participation à la collecte et à la vérification de toutes les données : fournisseurs géolocalisés par SIRET, masse salariale, dépenses des étudiants, réparties sur quatre zones d'impact.
 - L'analyse et les conclusions sont celles de la FNEGE. Les résultats ont été rendus publics par un dossier de presse d'Avignon Université (9 octobre 2019), à lire dans la section [Documents](#documents).
 
 ### Tableaux de bord (depuis 2019)
@@ -97,7 +97,7 @@ Alma Consulting Group (aujourd'hui Ayming), Lyon
 
 CCSTI de Lyon et Les Petits Débrouillards
 
-### 1998 à 2003 : Doctorant en physique, puis ingénieur de recherche
+### 1998 à 2003 : DEA et doctorat en physique, puis ingénieur de recherche
 
 LPMC (laboratoire de physique de la matière condensée) ; Sagem DS (1999 à 2001)
 
@@ -123,7 +123,7 @@ Météo-France, direction régionale, Cayenne (Guyane)
 | 2015 à 2018 | Fabrique d'Objets Libres | Président d'un FabLab et Living Lab |
 | 2005 à 2015 | Alma Consulting Group (Ayming) | Consultant puis expert technique |
 | 2004 | CCSTI de Lyon et Les Petits Débrouillards | Médiateur scientifique |
-| 1998 à 2003 | LPMC et Sagem DS | Doctorant en physique ; ingénieur de recherche (1999 à 2001) |
+| 1998 à 2003 | LPMC et Sagem DS | DEA puis doctorat en physique ; ingénieur de recherche (1999 à 2001) |
 | 1997 à 1998 | Météo-France, Cayenne | Volontaire de l'aide technique |
 
 ## Développement économique et création d'entreprises
