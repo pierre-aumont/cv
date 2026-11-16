@@ -117,9 +117,9 @@ Météo-France, direction régionale, Cayenne (Guyane)
 | --- | --- | --- |
 | Depuis 2025 | Amue | Formateur national IA |
 | Depuis 2019 | Avignon Université, Direction d'Appui à la Recherche et à l'Innovation (DARI) | Ingénieur partenariats recherche, innovation et développement économique |
-| 2016 à 2018 | ATTOM | Cofondateur, directeur général |
-| 2015 à 2018 | Fabrique d'Objets Libres | Président d'un FabLab et Living Lab |
-| 2005 à 2015 | Alma Consulting Group (Ayming) | Consultant puis expert technique |
+| 2016 à 2018 | ATTOM | FabLab industriel, Cofondateur, directeur général |
+| 2015 à 2018 | Fabrique d'Objets Libres | FabLab associatif, Président |
+| 2005 à 2015 | Alma Consulting Group (Ayming) | Consultant en financement de l'innovation puis expert technique |
 | 2004 | CCSTI de Lyon et Les Petits Débrouillards | Médiateur scientifique |
 | 1998 à 2003 | LPMC et Sagem DS, Nice | DEA puis doctorat en physique |
 | 1997 à 1998 | Météo-France, Cayenne | Volontaire de l'aide technique |
