@@ -9,8 +9,9 @@ Docteur en physique, je produis depuis 2019 à Avignon Université des données 
 - Cartographie des compétences des laboratoires (accès public) : <https://guacamole.iut-avignon.fr/aidari/labo_match/>
 - LinkedIn : <https://www.linkedin.com/in/pierre-aumont-avignon/>
 - Organisation GitHub du programme Avignon Intelligence : <https://github.com/Avignon-Intelligence-Avignon-Universite>
-- Association BeerCan.fr : <https://github.com/BeerCan2023>
+- Association BeerCan.fr : <https://beercan.fr> et <https://github.com/BeerCan2023> 
 - Courriel professionnel : pierre.aumont@univ-avignon.fr
+- Courriel personnel : pierre.aumont@gmail.com
 
 ## En bref
 
