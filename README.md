@@ -37,8 +37,8 @@ Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès d
 Étude de l'impact économique d'Avignon Université sur son territoire, réalisée par la FNEGE selon la méthode UNIS et présentée au préfet et aux collectivités.
 
 - Interlocuteur opérationnel des experts de la FNEGE, sous la supervision du vice-président au développement économique.
-- Encadrement du stagiaire chargé de la collecte et organisation des entretiens.
-- Participation à la collecte et à la vérification de toutes les données : fournisseurs géolocalisés par SIRET, masse salariale, dépenses des étudiants, réparties sur quatre zones d'impact.
+- Encadrement de la collecte et organisation des entretiens.
+- Participation à la vérification de toutes les données : fournisseurs géolocalisés par SIRET, masse salariale, dépenses des étudiants, réparties sur quatre zones d'impact.
 - L'analyse et les conclusions sont celles de la FNEGE. Les résultats ont été rendus publics par un dossier de presse d'Avignon Université (9 octobre 2019), à lire dans la section [Documents](#documents).
 
 ### Tableaux de bord (depuis 2019)
