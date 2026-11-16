@@ -38,7 +38,7 @@ Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès d
 
 - Interlocuteur opérationnel des experts de la FNEGE, sous la supervision du vice-président au développement économique.
 - Encadrement de la collecte et organisation des entretiens.
-- Participation à la vérification de toutes les données : fournisseurs géolocalisés par SIRET, masse salariale, dépenses des étudiants, réparties sur quatre zones d'impact.
+- Participation à la vérification de toutes les données : fournisseurs et partenaires géolocalisés, contrats, dépenses des étudiants…, réparties sur quatre zones d'impact.
 - L'analyse et les conclusions sont celles de la FNEGE. Les résultats ont été rendus publics par un dossier de presse d'Avignon Université (9 octobre 2019), à lire dans la section [Documents](#documents).
 
 ### Tableaux de bord (depuis 2019)
@@ -99,7 +99,7 @@ CCSTI de Lyon et Les Petits Débrouillards
 
 ### 1998 à 2003 : DEA et doctorat en physique, puis ingénieur de recherche
 
-LPMC (laboratoire de physique de la matière condensée) ; Sagem DS (1999 à 2001)
+LPMC (laboratoire de physique de la matière condensée) ; Sagem DS (1999 à 2003)
 
 - R&D d'un interféromètre pour une application industrielle.
 - Transfert de la technologie du laboratoire vers Sagem, comme ingénieur de recherche chez Sagem DS.
@@ -123,7 +123,7 @@ Météo-France, direction régionale, Cayenne (Guyane)
 | 2015 à 2018 | Fabrique d'Objets Libres | Président d'un FabLab et Living Lab |
 | 2005 à 2015 | Alma Consulting Group (Ayming) | Consultant puis expert technique |
 | 2004 | CCSTI de Lyon et Les Petits Débrouillards | Médiateur scientifique |
-| 1998 à 2003 | LPMC et Sagem DS | DEA puis doctorat en physique ; ingénieur de recherche (1999 à 2001) |
+| 1998 à 2003 | LPMC et Sagem DS | DEA puis doctorat en physique ; ingénieur de recherche (1999 à 2003) |
 | 1997 à 1998 | Météo-France, Cayenne | Volontaire de l'aide technique |
 
 ## Développement économique et création d'entreprises
@@ -138,7 +138,7 @@ Météo-France, direction régionale, Cayenne (Guyane)
   - membre du comité de valorisation du PUI Provence ;
   - membre du comité de valorisation d'Avignon Université ;
   - membre du comité de sélection du PUI Provence pour la Bourse French Tech Lab de Bpifrance (projets de start-up issus des laboratoires) ;
-  - auparavant, membre pendant 4 ans du comité de labellisation du pôle de compétitivité Innov'Alliance.
+  - membre pendant 4 ans du comité de labellisation du pôle de compétitivité Innov'Alliance.
 
 Auparavant : onze ans de CIR, CII et JEI auprès d'entreprises de tous secteurs chez Alma Consulting Group (2005 à 2015), cofondation d'ATTOM (2016 à 2018), transfert de technologie vers Sagem DS pendant la thèse.
 
