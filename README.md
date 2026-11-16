@@ -25,8 +25,8 @@ Docteur en physique, je produis depuis 2019 à Avignon Université des données 
 
 Programme Avignon Intelligence, Avignon Université (depuis fin 2025), auprès du vice-président au numérique : une vingtaine d'outils conçus et mis en service sur un serveur de l'université, en lien avec la DSI. Ces outils sont développés avec des agents de code IA que je spécifie, relis, teste et déploie. Les dépôts sont pour l'instant privés ; leur publication en source ouverte est prévue en 2027.
 
-- **Cartographie des compétences scientifiques des laboratoires** : moteur de recherche public qui oriente une entreprise vers les laboratoires pertinents à partir d'un besoin exprimé en langage naturel. 13 laboratoires, 8 600 publications issues des sources de la science ouverte (HAL, OpenAlex, ORCID), profils validés par les chercheurs. J'en suis l'architecte et j'en développe une partie. Extension en 2026 aux 16 unités INRAE du PUI Provence, avec mon alternant.
-- **Outils de mise en relation laboratoires et entreprises** : outils d'aide pour les chargés d'affaires de l'université et ses grands partenaires (collectivités, pôles de compétitivité, French Tech), construits à partir des données de la cartographie, du logiciel de gestion des contrats et du CRM ; référentiel des 1 300 partenaires et de leurs contrats par laboratoire, enrichi de données publiques (SIRENE, sites officiels).
+- **Cartographie des compétences scientifiques des laboratoires** : moteur de recherche public qui oriente une entreprise vers les laboratoires pertinents à partir d'un besoin exprimé en langage naturel. 13 laboratoires, 8 600 publications issues des sources de la science ouverte (HAL, OpenAlex, ORCID). J'en suis l'architecte et le principal développeur. Extension en 2026 aux 16 unités INRAE du PUI Provence, avec mon alternant.
+- **Outils de mise en relation laboratoires et entreprises** : outils d'aide pour les chargés d'affaires de l'université et ses grands partenaires (collectivités, pôles de compétitivité, French Tech…), construits à partir des données de la cartographie, du logiciel de gestion des contrats et du CRM ; référentiel des 1 300 partenaires et de leurs contrats par laboratoire, enrichi de données publiques (SIRENE, sites officiels).
 - **Outils internes** : assistants répondant à partir des pages officielles de l'université, traduction de documents, comptes rendus de réunions, toujours avec validation humaine.
 - **Expérimentation Mistral ESR** : portage pour l'université de l'expérimentation nationale conduite par l'Amue pour le ministère, qui met l'IA générative de Mistral AI (Le Chat et API) à disposition des personnels de l'enseignement supérieur et de la recherche.
 
@@ -58,11 +58,11 @@ Le PUI Provence (Pôle universitaire d'innovation, France 2030) réunit 13 étab
 
 ### Depuis 2019 : Ingénieur partenariats recherche, innovation et développement économique
 
-Avignon Université, Direction d'appui à la recherche et à l'innovation (DARI), Avignon
+Avignon Université, Direction d'Appui à la Recherche et à l'Innovation (DARI), Avignon
 
 - **Données de pilotage** : étude d'impact territorial (2019), tableaux de bord recherche et valorisation pour la gouvernance de l'université, indicateurs du PUI Provence (voir ci-dessus).
 - **Partenariats** : interface entre 13 laboratoires, entreprises, financeurs et acteurs territoriaux ; qualification des besoins, mise en relation, accords de confidentialité ; chaires partenariales coconstruites avec la gouvernance.
-- **Montage de dossiers** : budgets prévisionnels et plans de financement d'une vingtaine de CIFRE et d'environ huit Emploi jeune doctorant (Région Sud), en relation directe avec l'ANRT et la Région.
+- **Montage de dossiers** (CIFRE, Région Sud, Bpifrance, ANR) : budgets prévisionnels et plans de financement, dont une vingtaine de CIFRE et d'environ huit Emploi jeune doctorant (Région Sud), en relation directe avec l'ANRT et la Région.
 - **Développement économique et création d'entreprises** : voir la section dédiée ci-dessous.
 - **PUI Provence** (depuis 2024) : chargé de mission opérationnel pour Avignon Université.
 - **Programme Avignon Intelligence** (depuis 2025) : coordination, auprès du vice-président au numérique ; référent et formateur IA, formation de 90 agents de 7 services à l'IA générative, en deux séances adaptées aux métiers de chaque service ; outils de données et d'IA ; portage de l'expérimentation Mistral ESR.
@@ -81,7 +81,6 @@ Amue (Agence de mutualisation des universités et établissements), en compléme
 - **Fabrique d'Objets Libres** (2015 à 2018), président : FabLab et Living Lab ; codéveloppement de la Fabrique Mobile ; partenariats publics et privés, budgets, modèle hybride social et entreprises ; ateliers de prototypage et de créativité pour tous publics.
 - **ATTOM** (2016 à 2018), cofondateur et directeur général : bureau d'étude et de prototypage industriel, cinq cofondateurs ; prospection et partenariats.
 - **Projet Ganesh** (2016 à 2018), porteur du projet : voir la section Projets.
-- **Codex Innovation** (2018), consultant indépendant : conseil en financement de l'innovation, ateliers de créativité et de prototypage.
 - Prototypes matériels programmés sur Arduino et Raspberry Pi.
 
 ### 2005 à 2015 : Consultant puis expert technique, financement de l'innovation
@@ -90,19 +89,19 @@ Alma Consulting Group (aujourd'hui Ayming), Lyon
 
 - Analyse et justification de projets de R&D de tous secteurs pour le crédit d'impôt recherche (CIR), le crédit d'impôt innovation (CII) et le statut de jeune entreprise innovante (JEI) ; constitution et vérification de dossiers techniques et financiers ; appui lors des contrôles fiscaux.
 - Exploitation de données comptables et de contrôle de gestion pour les calculs budgétaires des dossiers de R&D.
-- Collecte des données et réponse, pour les entreprises clientes, aux enquêtes annuelles du ministère sur la R&D.
+- Collecte et exploitation des données de R&D des entreprises pour renseigner les enquêtes annuelles du ministère de la Recherche.
 - Référent technique et formateur d'environ cent consultants ; membre du cercle des huit experts.
 
 ### 2004 : Médiateur scientifique
 
 CCSTI de Lyon et Les Petits Débrouillards
 
-### 1998 à 2003 : DEA et doctorat en physique, puis ingénieur de recherche
+### 1998 à 2003 : DEA et doctorat en physique
 
-LPMC (laboratoire de physique de la matière condensée) ; Sagem DS (1999 à 2003)
+LPMC (laboratoire de physique de la matière condensée), Université de Nice Sophia Antipolis ; Sagem DS (1999 à 2003), Nice
 
 - R&D d'un interféromètre pour une application industrielle.
-- Transfert de la technologie du laboratoire vers Sagem, comme ingénieur de recherche chez Sagem DS.
+- Transfert de la technologie du laboratoire vers Sagem DS, en tant que doctorant.
 - Traitement de données de capteurs et d'expériences, programmation en MATLAB.
 
 ### 1997 à 1998 : Volontaire de l'aide technique
@@ -117,13 +116,12 @@ Météo-France, direction régionale, Cayenne (Guyane)
 | Période | Employeur | Fonction |
 | --- | --- | --- |
 | Depuis 2025 | Amue | Formateur national IA |
-| Depuis 2019 | Avignon Université, Direction d'appui à la recherche et à l'innovation (DARI) | Ingénieur partenariats recherche, innovation et développement économique |
-| 2018 | Codex Innovation | Consultant indépendant |
+| Depuis 2019 | Avignon Université, Direction d'Appui à la Recherche et à l'Innovation (DARI) | Ingénieur partenariats recherche, innovation et développement économique |
 | 2016 à 2018 | ATTOM | Cofondateur, directeur général |
 | 2015 à 2018 | Fabrique d'Objets Libres | Président d'un FabLab et Living Lab |
 | 2005 à 2015 | Alma Consulting Group (Ayming) | Consultant puis expert technique |
 | 2004 | CCSTI de Lyon et Les Petits Débrouillards | Médiateur scientifique |
-| 1998 à 2003 | LPMC et Sagem DS | DEA puis doctorat en physique ; ingénieur de recherche (1999 à 2003) |
+| 1998 à 2003 | LPMC et Sagem DS, Nice | DEA puis doctorat en physique |
 | 1997 à 1998 | Météo-France, Cayenne | Volontaire de l'aide technique |
 
 ## Développement économique et création d'entreprises
@@ -157,7 +155,7 @@ Auparavant : onze ans de CIR, CII et JEI auprès d'entreprises de tous secteurs 
 
 - **Ganesh** (2016 à 2018), porteur du projet : prothèse auditive open source fabricable en FabLab pour 10 à 50 €, contre 500 à 2 500 € dans le commerce. Trois versions, pré-industrialisation avec un lycée professionnel ; partenaires réunis autour du projet : FabLab associatif, lycée professionnel, école de design, entreprises. Présenté lors d'une conférence à l'INSA en mars 2018 (voir [Documents](#documents)).
 - **Fabrique d'Objets Libres** (2015 à 2018) : FabLab et Living Lab présidé pendant trois ans ; Fabrique Mobile codéveloppée ; projets d'innovation ouverte avec des entreprises et des publics variés.
-- **BeerCan.fr** (depuis 2023) : président bénévole de cette association consacrée à l'IA et à la société ; culture scientifique et technique, sensibilisation à l'IA, science ouverte.
+- **BeerCan.fr, IA et société** (depuis 2023) : président bénévole de l'association ; culture scientifique et technique, sensibilisation à l'IA, science ouverte.
 
 ## Dans la presse
 
